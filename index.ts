@@ -1,5 +1,5 @@
 // index.ts
-const TELEGRAM_TOKEN = "8142135309:AAEo0fpQ6hgn4j5iY_43DjG4VFcaNENxiM8";
+const TELEGRAM_TOKEN = "8142135309:AAESsi9rlg9rav8n8oaiT9wuWOQ09tmA7cs";
 const CHAT_ID = "1962437251";
 const TELEGRAM_API = `https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage`;
 
